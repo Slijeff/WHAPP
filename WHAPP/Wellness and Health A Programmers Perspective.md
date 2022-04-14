@@ -21,4 +21,5 @@ Harold Ye has been the lead analyst of Programmers' Wellness & Health Associatio
 ### Chapter 5: Workload arrangement
 
 ### Chapter 6: Other living practices
++ Rewarding yourself twice a week is essential for your health and well-being. Rewarding is one of the most effective ways to relax yourself. As programmers, we often encounter numerous challenges when coding, especially when you realized your function call is off by one letter and you've been debugging your program for 12 hours. When you found yourself in scenarios like this, it is a perfect moment to reward yourself.
 
